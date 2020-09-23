@@ -1,0 +1,2 @@
+# .NetCoreAzure
+Chapsas
